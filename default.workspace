@@ -3,5 +3,6 @@
 	<Workspace title="Workspace">
 		<Project filename="C learning/C learning.cbp" />
 		<Project filename="WorkWithNumbers/WorkWithNumbers.cbp" />
+		<Project filename="BasicCalculator/BasicCalculator.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

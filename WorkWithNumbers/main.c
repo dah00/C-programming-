@@ -13,9 +13,18 @@ int main()
 
     printf("Your age is %f", gpa);*/
 
-    char name[20];
-    printf("Enter your name: ");
-    fgets(name, 20, stdin);    // 20 is the number of character the user can enter
-    printf("Your name is %s", name);
+    char celebrity[20];
+    int a;
+
+    printf("\nEnter a name of a celebrity: ");
+    fgets(celebrity, 20, stdin);    // 20 is the number of character the user can enter
+    printf("Your name is %s", celebrity);
+
+    /*
+
+    printf("Enter a number: ");
+    scanf("%d", &a);
+    printf("You entered %d", a);*/
+
     return 0;
 }
