@@ -4,5 +4,9 @@
 		<Project filename="C learning/C learning.cbp" />
 		<Project filename="WorkWithNumbers/WorkWithNumbers.cbp" />
 		<Project filename="BasicCalculator/BasicCalculator.cbp" />
+		<Project filename="Arrays/Arrays.cbp" />
+		<Project filename="Functions/Functions.cbp" />
+		<Project filename="IfStatement/IfStatement.cbp" />
+		<Project filename="BetterCalculator/BetterCalculator.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
