@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623812063 source:d:\bossy\github repository\c programming\bettercalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
