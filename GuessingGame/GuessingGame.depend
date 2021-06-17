@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623888760 source:d:\bossy\github repository\c programming\guessinggame\main.c
+	<stdio.h>
+	<stdlib.h>
+

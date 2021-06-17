@@ -8,5 +8,10 @@
 		<Project filename="Functions/Functions.cbp" />
 		<Project filename="IfStatement/IfStatement.cbp" />
 		<Project filename="BetterCalculator/BetterCalculator.cbp" />
+		<Project filename="SwitchStatement/SwitchStatement.cbp" />
+		<Project filename="Structs/Structs.cbp" />
+		<Project filename="GuessingGame/GuessingGame.cbp" />
+		<Project filename="ForLoops/ForLoops.cbp" />
+		<Project filename="2DArrays/2DArrays.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
