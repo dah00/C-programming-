@@ -13,5 +13,8 @@
 		<Project filename="GuessingGame/GuessingGame.cbp" />
 		<Project filename="ForLoops/ForLoops.cbp" />
 		<Project filename="2DArrays/2DArrays.cbp" />
+		<Project filename="memoryAddress/memoryAddress.cbp" />
+		<Project filename="WritingFiles/WritingFiles.cbp" />
+		<Project filename="ReadingFiles/ReadingFiles.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
