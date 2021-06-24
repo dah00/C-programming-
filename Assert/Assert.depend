@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624507312 source:d:\bossy\github repository\c programming\assert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

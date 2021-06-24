@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-double cube(double num);
+double cube(double );
 
 int main()
 {
